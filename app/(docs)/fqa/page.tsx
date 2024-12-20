@@ -7,7 +7,7 @@ export default function Page() {
 
   const faqItems = [
     {
-      question: "What is PdogFun?",
+      question: "What is Fun.memeco.tv?",
       answer: "Designed to simplify the creation of meme coins. Allows anyone to quickly and easily launch their own meme token without deep technical knowledge. Users can create a token by uploading an image, choosing a name and symbol, and paying a small fee. The platform uses a bond curve pricing model, where the token price rises as more people buy it, creating liquidity before listing on decentralized exchanges."
     },
   ]
@@ -18,7 +18,7 @@ export default function Page() {
       {/* Hero Section */}
       <section className="bg-primary py-20">
         <div className="  mx-auto px-4 text-center">
-          <h2 className="text-4xl font-bold text-gray-800 mb-4">FQA</h2>
+          <h2 className="text-4xl font-bold text-gray-800 mb-4">FAQ</h2>
         </div>
       </section>
 

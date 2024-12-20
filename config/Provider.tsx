@@ -13,10 +13,10 @@ export const config = createConfig(
       [lenstestnet.id]: http(`${lenstestnet?.rpcUrls?.default}`)
     },
     walletConnectProjectId: process.env.NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID || '123',
-    appName: "PdogFun",
+    appName: "Fun.memeco.tv",
     appDescription: "Designed to simplify the creation of meme coins. Allows anyone to quickly and easily launch their own meme token without deep technical knowledge.",
-    appUrl: "https://pdog.fun",
-    appIcon: "https://pdog.fun/favicon.ico",
+    appUrl: "https://fun.memeco.tv",
+    appIcon: "https://fun.memeco.tv/favicon.ico",
   }),
 );
 

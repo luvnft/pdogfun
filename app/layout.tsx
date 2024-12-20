@@ -9,8 +9,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 
 export const metadata: Metadata = {
-  title: "PdogFun",
-  description: "Designed to simplify the creation of meme coins. Allows anyone to quickly and easily launch their own meme token without deep technical knowledge.Users can create a token by uploading an image, choosing a name and symbol, and paying a small fee. The platform uses a bond curve pricing model, where the token price rises as more people buy it, creating liquidity before listing on decentralized exchanges.",
+  title: "Fun.memeco.tv",
+  description: "Fun.memeco.tv is a simple memeconomy. Upload an image, choose a fun name and symbol, and then pay a small fee. The platform uses a bond curve pricing model, where the token price rises as more people buy it, creating liquidity before listing on decentralized exchanges.",
 };
 
 export default function RootLayout({
